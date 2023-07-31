@@ -3,7 +3,7 @@ implemented:
 - popBack()
 - popFront()
 - pushBack()
-- pusnFront()
+- pushFront()
 - reverse()
 - print()
 - some tests
